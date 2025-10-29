@@ -1,4 +1,4 @@
-class Mytool < Formula
+class snixconnect < Formula
   desc "SnixConnect VPN client for MacOS"
   homepage "https://github.com/sina-ghaderi/homebrew-snix"
   url "https://github.com/sina-ghaderi/homebrew-snix/releases/download/v0.11.4/snixconnect-0.11.4-darwin-amd64.tar.gz"
